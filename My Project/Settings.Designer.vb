@@ -71,3 +71,18 @@ Namespace My
         End Property
     End Module
 End Namespace
+Namespace My
+
+    <Global.Microsoft.VisualBasic.HideModuleNameAttribute(), _
+     Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
+     Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute()> _
+    Friend Module MySettingsProperty
+
+        <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
+        Friend ReadOnly Property Settings() As Global.TestApplication.My.MySettings
+            Get
+                Return Global.TestApplication.My.MySettings.Default
+            End Get
+        End Property
+    End Module
+End Namespace

@@ -60,3 +60,18 @@ Namespace My.Resources
         End Property
     End Module
 End Namespace
+'<summary>
+'  Overrides the current thread's CurrentUICulture property for all
+'  resource lookups using this strongly typed resource class.
+'</summary>
+<Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Advanced)> _
+Friend Property Culture() As Global.System.Globalization.CultureInfo
+    Get
+        Return resourceCulture
+    End Get
+    Set(ByVal value As Global.System.Globalization.CultureInfo)
+        resourceCulture = value
+    End Set
+End Property
+    End Module
+End Namespace
