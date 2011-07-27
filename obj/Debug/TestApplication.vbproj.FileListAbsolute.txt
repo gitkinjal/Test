@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\bin\Debug\TestApplication.exe
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\bin\Debug\TestApplication.pdb
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\bin\Debug\TestApplication.xml
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.Form1.resources
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.Form2.resources
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.Form3.resources
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.Resources.resources
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.exe
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.xml
+C:\Documents and Settings\Administrator.ZAKIR\Local Settings\Application Data\Temporary Projects\TestApplication\obj\Debug\TestApplication.pdb
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.xml
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\bin\Debug\TestApplication.xml
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.Form1.resources
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.Form2.resources
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.Form3.resources
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.Resources.resources
+C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.vbproj.GenerateResource.Cache
