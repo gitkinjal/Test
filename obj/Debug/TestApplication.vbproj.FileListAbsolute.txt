@@ -22,3 +22,6 @@ C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\T
 C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.Form3.resources
 C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.Resources.resources
 C:\Documents and Settings\Administrator.ZAKIR\Desktop\Test App\TestApplication\TestApplication\obj\Debug\TestApplication.vbproj.GenerateResource.Cache
+D:\GitTest\Test\obj\Debug\TestApplication.exe
+D:\GitTest\Test\obj\Debug\TestApplication.xml
+D:\GitTest\Test\obj\Debug\TestApplication.pdb
